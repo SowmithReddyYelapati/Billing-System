@@ -1,0 +1,6 @@
+Select Category: Casual
+Item: Pants
+Discount: 5%
+Price: ₹950
+Total Bill: ₹950.0
+
